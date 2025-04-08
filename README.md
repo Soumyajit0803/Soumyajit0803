@@ -1,16 +1,6 @@
 # Hi, I'm Soumyajit Karmakar 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/soumyajit-karmakar-68362526b/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sona832004@gmail.com) 
 
-🔭 **I’m currently building** interesting web and ML projects.
-
-👯 **I’m looking forward to** jamming on projects that blend creativity, code, and real-world impact.
-
-🌱 **Learning how to** improve Backend security and making ML models learn better.
-
-💬 **Ask me about** React bugs, design ideas or speedcubing.  
-
-⚡ **Boring fact**: If it works, I insist on finding out how.
-
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=soumyajit0803&theme=radical&no-frame=true&no-bg=false&margin-w=1)
