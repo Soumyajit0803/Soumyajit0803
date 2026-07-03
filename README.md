@@ -2,7 +2,7 @@
 [![Website](https://img.shields.io/badge/Website-28A745?style=for-the-badge&logo=googlechrome&logoColor=white)](https://soumyajit-dev.vercel.app)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sona832004@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/soumyajit-karmakar-68362526b/)
-[![RESUME](https://img.shields.io/badge/Resume-8403fc?style=for-the-badge)]([https://www.linkedin.com/in/soumyajit-karmakar-68362526b/](https://drive.google.com/file/d/10tRSrvS2gWFM98FE_cTBo9b0NNcRh52X/view?usp=sharing))
+[![RESUME](https://img.shields.io/badge/Resume-8403fc?style=for-the-badge)](https://drive.google.com/file/d/10tRSrvS2gWFM98FE_cTBo9b0NNcRh52X/view?usp=sharing)
 
 ## My Tech Stack
 **Programming Languages**<br/>
